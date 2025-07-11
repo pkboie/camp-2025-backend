@@ -8,5 +8,5 @@ dependencies = [
     "fastapi[standard]>=0.116.0",
 ]
 
-[uv.tool]
+[tool.uv]
 package = false
